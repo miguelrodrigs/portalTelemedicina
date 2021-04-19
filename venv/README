@@ -1,0 +1,5 @@
+Neste teste usei as libs pandas para leitura e tratamento dos dados, matplotlib e seaborn para plotagem dos dados,
+usei também sklearn para treinar os modelos e verificar a acuracia dos mesmos,
+criei um notebook 'sex_predictor.ipynb' onde tem mais detalhes da analise dos dados, tratamentos e comentarios,
+assim como os testes dos modelos usados no script 'sex_predictor.py' escolhi o modelo random forest pois foi oque apresentou melhor acuracia nos testeS,
+preparei o script para ser executado conforme descrito no teste com o arquivo de preferencia.
